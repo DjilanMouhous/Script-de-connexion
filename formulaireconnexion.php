@@ -11,7 +11,7 @@
 <body>
         <p>Se Connecter</p>
     
-        <form method="POST" action="testlog2.php">
+        <form method="POST" action="verificationinscription.php">
             <label>Adresse mail</label>
             <input name="mail" type="email" value="test@gmail.com" required>
 
